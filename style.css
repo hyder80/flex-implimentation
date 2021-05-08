@@ -1,0 +1,9 @@
+.flex-container {
+    background-color: rgb(0, 255, 136);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.flex-container > div {
+
+}
